@@ -7,7 +7,7 @@
  * @author Felipe Leonardo
  * @since 30/09/2024
  */
-public class MeuPerfil {
+public class main {
     public static void main(String[] args) {
         // Exibindo informações pessoais
         System.out.println("========== MEU PERFIL ==========");
